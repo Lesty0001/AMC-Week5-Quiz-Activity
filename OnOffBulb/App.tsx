@@ -48,3 +48,5 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
+//Added Image View, Conditions(isEnabled) to make the image switch if it is on and off.
